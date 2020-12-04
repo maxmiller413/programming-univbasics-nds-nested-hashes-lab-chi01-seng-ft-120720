@@ -21,9 +21,11 @@ end
 def literal_aoh
   [
     {:name=>"Don Gately", :occupation=>"Live-in Staff"}
-    {:name
-    
-    
+    {:name=>"Don Gately", :occupation=>"Live-in Staff"}
+    {:name=>"Pat Monteseian", :occupation=>"Staff"}
+    {:name=>"Kate Gompert", :occupation=>"Live-in Staff"}
+    {:name=>"Don Gately", :occupation=>"Live-in Staff"}
+    {:name=>"Don Gately", :occupation=>"Live-in Staff"}
     ]
     # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
